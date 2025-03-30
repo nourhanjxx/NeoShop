@@ -75,8 +75,6 @@ Below is the ERD for NeoShop, illustrating the relationships between entities ac
 
 ### 🖼️ Architecture Diagram
 
-![NeoShop ERD](diagrams/ERD.png)
-
 The architecture diagram showcases how NeoShop's microservices interact with each other:
 
 - **API Gateway**: Acts as the entry point for all client requests, routing them to the appropriate microservice (`/customers`, `/products`, `/orders`).
