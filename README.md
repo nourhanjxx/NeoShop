@@ -73,6 +73,8 @@ Below is the ERD for NeoShop, illustrating the relationships between entities ac
 
 ### 🖼️ Architecture Diagram
 
+![NeoShop ERD](diagrams/ERD.png)
+
 The architecture diagram showcases how NeoShop's microservices interact with each other:
 
 - **API Gateway**: Acts as the entry point for all client requests, routing them to the appropriate microservice (`/customers`, `/products`, `/orders`).
@@ -162,13 +164,3 @@ NeoShop has been a fantastic learning experience, helping me deepen my expertise
 
 ## 📬 Contact
 For any questions or feedback, feel free to reach out at [amrelsebay3@gmail.com](mailto:amrelsebay3@gmail.com).
-
----
-
-### Notes for GitHub Usage:
-1. **Add the Architecture Diagram**: The `![NeoShop Architecture](path-to-architecture-diagram.png)` line assumes you have the architecture diagram image in your repository. Upload the image to your GitHub repository (e.g., in a folder like `docs/` or `images/`) and update the path accordingly (e.g., `docs/architecture-diagram.png`).
-2. **Customize the Repository URL**: Replace `https://github.com/yourusername/neoshop.git` with the actual URL of your GitHub repository.
-3. **Add a License File**: If you’re using the MIT License, create a `LICENSE` file in your repository with the appropriate license text.
-4. **Contact Information**: Replace `your-email@example.com` with your actual email address or preferred contact method.
-
-This README is now ready to be added to your GitHub repository! It’s well-structured, visually appealing, and provides all the necessary information for users or contributors. Let me know if you’d like to make any adjustments!
