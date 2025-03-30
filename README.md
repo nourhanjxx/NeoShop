@@ -1,6 +1,6 @@
 # NeoShop: Scalable Order Management System 🌟
 
-![NeoShop Architecture](diagrams/NeoShop Architecture.jpeg) 
+![NeoShop Architecture](diagrams/architecture-diagram.jpeg) 
 
 Welcome to **NeoShop**, a modern e-commerce platform designed as a scalable Order Management System using a microservices architecture. Built with **Spring Boot 3** and **Spring Cloud**, NeoShop ensures high performance, scalability, and seamless integration for e-commerce applications.
 
