@@ -59,6 +59,8 @@ NeoShop is composed of the following microservices, each responsible for a speci
 
 ![NeoShop ERD](diagrams/ERD.jpeg)
 
+![NeoShop ERD](diagrams/DDD.jpeg)
+
 Below is the ERD for NeoShop, illustrating the relationships between entities across different domains:
 
 - **Customer Domain**:
